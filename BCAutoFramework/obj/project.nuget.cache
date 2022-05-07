@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aLTdFEsoVuWdePFfgMyGAhIA2v/JlahYDcqr/mFze4NKnvn0KO+YmkBWVTWhw29nJyOdHR/TfJfOLMzXGOlpBw==",
+  "dgSpecHash": "pVPA3+7tX3D7sHJNB41Zow+EY2ozqXfpMD+JNF9HB4RTQM2ayPGsagCF3zaD6+/RoSP8PY1ntTHzNT/Luq10ig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bill_\\source\\repos\\BCAutoFramework\\BCAutoFramework\\BCAutoFramework.csproj",
+  "projectFilePath": "C:\\Users\\bill_\\source\\repos\\BCAutoFramework\\BCAutoFramework\\CrossPlatformBCTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bill_\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
     "C:\\Users\\bill_\\.nuget\\packages\\microsoft.net.test.sdk\\17.1.0\\microsoft.net.test.sdk.17.1.0.nupkg.sha512",
@@ -14,8 +14,8 @@
     "C:\\Users\\bill_\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
     "C:\\Users\\bill_\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
     "C:\\Users\\bill_\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512",
-    "C:\\Users\\bill_\\.nuget\\packages\\selenium.support\\4.1.0\\selenium.support.4.1.0.nupkg.sha512",
-    "C:\\Users\\bill_\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512",
+    "C:\\Users\\bill_\\.nuget\\packages\\selenium.support\\4.1.1\\selenium.support.4.1.1.nupkg.sha512",
+    "C:\\Users\\bill_\\.nuget\\packages\\selenium.webdriver\\4.1.1\\selenium.webdriver.4.1.1.nupkg.sha512",
     "C:\\Users\\bill_\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
   ],
   "logs": []
